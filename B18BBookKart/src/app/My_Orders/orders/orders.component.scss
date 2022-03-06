@@ -1,0 +1,53 @@
+.order{
+    border: 1px solid #ff4081;  
+    font-size: 33px;
+    padding-left: 25px;
+    font-weight: 500;
+    line-height: 1.7;
+    margin-block-start: 0.5em;
+    color: white;
+    background-color: #ff4081;
+}
+
+.main{
+    border: solid 3px rgb(243, 241, 241);
+    background-color: white;
+
+}
+
+
+.start{
+    background-color: #3f51b5;
+    box-sizing: border-box;
+    height: 35px;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+table {
+    width: 100%;
+    border: solid 0.5px grey;
+      margin-bottom:50px ;
+  }
+
+  .input{
+      width: 400px !important;
+  }
+ 
+
+    mat-table tbody tr:hover{
+    cursor: pointer;
+    background: rgb(172, 159, 159);
+  }
+  
+  td,
+  th {
+    width: 18%;
+  }
+  .data{
+      line-height: 0.7;
+      padding: 15px;
+      padding-bottom: 30px;
+      font-size: 23px;
+  }
+  
